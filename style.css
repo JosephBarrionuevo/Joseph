@@ -1,5 +1,6 @@
 .carrusel{
     width: 325px;   
+    padding: 10px;
 }
 
 .head{
@@ -11,4 +12,10 @@
 footer{
     background-color: black;
     text-align: center;
+}
+
+.recuerdo{
+    text-align: center;
+    color: #d63384;
+    border-top:3px solid red;
 }
